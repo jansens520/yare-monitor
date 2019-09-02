@@ -13,7 +13,7 @@
     <groupId>com.jansens</groupId>
     <artifactId>yare-monitor</artifactId>
     <version>1.0.0</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <name>yare-monitor</name>
     <description>yare-monitor</description>
